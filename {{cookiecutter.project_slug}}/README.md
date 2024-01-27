@@ -1,4 +1,4 @@
-# Terraform module: {{ cookiecutter.module_name }}
+# Terraform module: {{ cookiecutter.project_name }}
 *{{ cookiecutter.description }}*
 
 ## Pre-requisite
