@@ -1,0 +1,6 @@
+{
+  "project_name": "terraform-live-repo",
+  "description": "A single source of truth for infrastructure resources created by Terraform.",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "author": "Thai Nguyen Minh"
+}
